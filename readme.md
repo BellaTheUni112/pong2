@@ -10,7 +10,7 @@ or compile yourself with
 
 `gcc pong.c -o pong -lSDL2`
 
-then
+then (even if you got the prebuilt binary)
 
 `chmod +x pong`
 
