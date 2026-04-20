@@ -4,6 +4,8 @@ download it at http://ntpd7cq74foxcjd3qsucdryix7pl7aacakd3shlegphbvayxjzoxu5qd.o
 
 or compile yourself with
 
-`sudo apt update
-sudo apt install libsdl2-dev
-gcc pong.c -o pong -lSDL2`
+`sudo apt update`
+
+`sudo apt install libsdl2-dev`
+
+`gcc pong.c -o pong -lSDL2`
